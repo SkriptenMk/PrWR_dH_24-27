@@ -1,0 +1,9 @@
+---
+title: "Ziele des Strafrechts"
+date: 2025-06-21
+date-format: DD.MM.YYYY
+author: "Jacques Mock Schindler"
+---
+
+Strafe bedeutet, jemandem bewusst ein Übel zuzufügen.
+

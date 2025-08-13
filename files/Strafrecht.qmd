@@ -1,0 +1,9 @@
+---
+title: "Unterlagen zum Strafrecht"
+date-format: DD.MM.YYYY
+listing:
+  contents: strafrecht/**
+  type: table
+  sort: date
+---
+

@@ -1,7 +1,45 @@
 ---
-title: "PrWR_dH_24-27"
+title: "Willkommen"
 ---
 
-This is a Quarto website.
+Hier finden Sie die Informationen für den Unterricht in PrWR.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Programm
+
+Das Programm widerspiegelt den aktuellen Stand der Planung. Es ist im
+Verlauf des Semesters mit Änderungen zu rechnen.
+
+| Datum | Thema |
+| :--- | :--- |
+| 21.08.2025 | Strafrecht: Ziele des Strafrechts |
+| 28.08.2025 | Strafrecht: Strafen und Massnahmen |
+| 04.09.2025 | Strafrecht: Delikte gegen Leib und Leben |
+| 11.09.2025 | Strafrecht: Delikte gegen die sexuelle Integrität |
+| 18.09.2025 | Strafrecht: Eigentumsdelikte |
+| 25.09.2025 | Strafrecht: Strafprozessrecht |
+| 23.10.2025 | Test |
+| 30.10.2025 | Steuern: Steuern als voraussetzungslos geschuldete öffentlichrechtliche Abgaben |
+| 06.11.2025 | Steuern: Steuererklärung ausfüllen (Privat Tax) |
+| 13.11.2025 | Steuern: Steuererklärung ausfüllen (Privat Tax) |
+| 20.11.2025 | Steuern: Lenkungsabgaben am Beispiel der Tabaksteuer |
+| 27.11.2025 | Steuern: Erbschaftssteuern |
+| 04.12.2025 | Konsumkredite - gesetzliche Grundlagen |
+| 11.12.2025 | Konsumkredite: Leasing |
+| 18.12.2025 | Test |
+
+
+## Beurteilung
+
+Pro Semester sind zwei schriftliche Prüfungen vorgesehen. Ausserdem wird
+die mündliche Beteiligung benotet. Als mündliche Beteiligung gilt
+insbesondere auch das Stellen von Fragen.  
+Die
+Zeugnisnote berechnet sich als gewichteter Durchschnitt aus den beiden
+schriftlichen Prüfungen und der Note für die mündliche Beteiligung. Die
+Durchschnittsnote der beiden schriftlichen Prüfungen wird mit 90%, die
+Note für die mündliche Beteiligung mit 10% gewichtet.
+
+
+Falls jemand eine persönliche Besprechung wünscht, 
+<a href="https://calendar.app.google/XdTippvkrbHJct3Y9" target="_blank">
+kann sich hier für eine Sprechstunde anmelden</a>.
