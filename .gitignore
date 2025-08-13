@@ -1,0 +1,7 @@
+/.quarto/
+/.venv/
+*.swp
+*.aux
+*.log
+*.pdf
+
