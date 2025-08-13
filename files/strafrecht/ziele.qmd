@@ -1,9 +1,33 @@
 ---
 title: "Ziele des Strafrechts"
-date: 2025-06-21
+date: 2025-08-21
 date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"
 ---
 
-Strafe bedeutet, jemandem bewusst ein Übel zuzufügen.
+::: {.callout-important appearance=simple}
 
+## Definition
+
+Strafe bedeutet, jemandem bewusst ein Übel zuzufügen.
+:::
+
+Bei vielen Diskussionen über die Ziele des Strafrechts geht die
+grundlegende Definition von Strafe vergessen. Bei den folgenden
+Überlegungen muss diese Definition jedoch stets im Hinterkopf behalten
+werden.
+
+## Die Ziele der Strafe im Überblick
+
+1. **Rache**: Die Strafe soll das begangene Unrecht durch das dem Täter
+   zugefügte Übel ausgleichen.
+2. **Prävention**: Durch die Androhung und Verhängung von Strafen soll
+   zukünftigen Straftaten des Täters (Spezialprävention) und
+   potentieller weiterer Täter (Generalprävention) entgegengewirkt werden.
+3. **(Re)Sozialisierung**: Die Strafe soll erziehend auf den Täter
+   einwirken. Es soll sichergestellt werden, dass der Täter nach
+   Verbüssen der Strafe in die Gesellschaft (re)integriert werden und in
+   Zukunft ein straffreies Leben führen kann.
+4. **Sicherung der Rechtsordnung**: Die Strafe dient dazu, die
+   Missachtung der Rechtsordnung zu sanktionieren und ihr so Nachachtung
+   zu verleihen.
