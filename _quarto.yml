@@ -4,6 +4,9 @@ project:
 
 website:
   title: "PrWR 2dH (Schuljahr 25/26)"
+  repo-url: https://github.com/SkriptenMk/I_eW_24-28
+  repo-actions: [issue]
+  repo-link-target: _blank
   navbar:
     right:
       - text: Home
@@ -17,6 +20,13 @@ format:
       - cosmo
     css: styles.css
     toc: true
+  pdf:
+    pdf-engine: xelatex
+    mainfont: Arial
+    fontsize: 11pt
+    documentclass: article
+    classoption: a4paper
+    toc: false    
 
 
 
