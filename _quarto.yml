@@ -4,6 +4,9 @@ project:
 
 website:
   title: "PrWR 2dH (Schuljahr 25/26)"
+  repo-url: https://github.com/SkriptenMk/I_eW_24-28
+  repo-actions: [source, issue]
+  repo-link-target: _blank
   navbar:
     right:
       - text: Home
