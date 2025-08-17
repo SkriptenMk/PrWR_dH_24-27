@@ -5,3 +5,13 @@ date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"
 ---
 
+## Fokus des Strafrechts
+
+Das Schweizerische Strafrecht ist Täterorientiert. Es regelt, wie das
+Verhalten eines Täters sanktioniert wird. Dabei hält es nicht nur fest,
+welche Strafen für welche Delikte verhängt werden, sondern vor allem,
+welche Verhaltensweisen überhaupt strafbar sind (vgl.
+<a href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_1"
+target="_blank">
+Art. 1 StGB</a>). Das Strafrecht ist damit ein Beispiel dafür, welche
+Einschränkungen der Staatsmacht in einem Rechtsstaat auferlegt werden. 
