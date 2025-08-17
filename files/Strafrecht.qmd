@@ -4,6 +4,7 @@ date-format: DD.MM.YYYY
 listing:
   contents: strafrecht/**
   type: table
-  sort: date
+  sort: 
+    - "date"
+    - "title"
 ---
-
