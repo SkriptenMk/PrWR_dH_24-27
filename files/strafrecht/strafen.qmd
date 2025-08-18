@@ -1,0 +1,20 @@
+---
+title: "2 Strafen und Massnahmen"
+date: 2025-08-28
+date-format: DD.MM.YYYY
+author: "Jacques Mock Schindler"
+---
+
+Das Schweizerische Strafrecht unterscheidet zwischen Strafen und
+Massnahmen. Strafen sind staatliche Reaktionen auf strafbares Verhalten
+und setzen ein Verschulden, das heisst, ein vorwerfbares Verhalten des
+Täters voraus. Massnahmen hingegen zielen auf Besserung des Täters und
+Schutz der Allgemeinheit ab; unabhängig vom Verschulden des Täters.
+
+## Strafen
+
+Das StgB kennt Geld- und Freiheitsstrafen.
+
+### Geldstrafe
+
+### Freiheitsstrafe
