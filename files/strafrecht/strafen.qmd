@@ -17,4 +17,20 @@ Das StgB kennt Geld- und Freiheitsstrafen.
 
 ### Geldstrafe
 
+Die Geldstrafen werden in Geldstrafen in Tagessätzen und Bussen
+unterteilt. Bei Verhängung einer Geldstrafe wird die Höhe der Strafe
+nicht in Franken, sondern in Tagessätzen festgelegt. Die Anzahl der
+Tagessätze richtet sich nach der Schwere des Vergehens und dem
+Verschulden des Täters. Der Frankenbetrag eines Tagessatzes wird
+individuell festgelegt und berücksichtigt die finanziellen Verhältnisse
+des Täters (<a
+href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#art_34"
+target="_blank">Art. 34 StGB</a>). So will der Gesetzgeber
+sicherstellen, dass die Geldstrafe jeden Täter gleich hart trifft.  
+Im Gegensatz zu den Geldstrafen in Tagessätzen werden Bussen in fixen
+Beträgen in Franken festgelegt.
+
+Geldstrafen können für Verbrechen und Vergehen verhängt werden. Bussen
+sind für Übertretungen vorgesehen.
+
 ### Freiheitsstrafe
