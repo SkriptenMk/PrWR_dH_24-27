@@ -33,8 +33,18 @@ verurteilen, die selbst besonders skrupellos handelten (E. 3).
 
 ## Sachverhalt (ab Seite 266)
 
+:::{.column-margin}
+Der Sachverhalt ist die Geschichte, die sich zugetragen hat und vom
+Gericht zu beurteilen ist.
+:::
+
 ::: {.center .pagebreak}
 BGE 120 IV 265 S. 266
+:::
+
+:::{.column-margin}
+An dieser Stelle beginnt in der amtlichen gedruckten Ausgabe die Seite
+266.
 :::
 
 
@@ -46,8 +56,16 @@ Gericht wies B. in Anwendung von [Art. 100bis StGB]{.artref} in eine
 Arbeitserziehungsanstalt ein und bestrafte E. mit 14 Jahren sowie G. mit
 16 Jahren Zuchthaus.
 
+:::{.column-margin}
+Prozessgeschichte
+:::
+
 **B.-** Der Verurteilung wegen Mordes liegt
 zusammengefasst folgender Sachverhalt zugrunde:
+
+:::{.column-margin}
+Sachverhalt im engeren Sinne
+:::
 
 a\) E., G., B., X. und das Mädchen R. bildeten im Februar 1992 eine
 Clique, die mit dem Auto Ausfahrten unternahm, Restaurants besuchte und
@@ -205,6 +223,10 @@ Abwasserschacht.
 Nichtigkeitsbeschwerde und beantragt, das Urteil des Obergerichts vom
 26\. März 1993 sei aufzuheben, insbesondere soweit er wegen Mordes
 schuldig erklärt worden sei.
+
+:::{.column-margin}
+Anträge der Parteien
+:::
 
 Die Vorinstanz und die Staatsanwaltschaft des Kantons Zürich haben auf
 Gegenbemerkungen zur Beschwerde verzichtet.
