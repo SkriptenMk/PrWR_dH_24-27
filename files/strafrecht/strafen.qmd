@@ -53,3 +53,15 @@ Bei der Anordnung von Massnahmen stehen dem Gericht verschiedene
 Möglichkeiten zur Verfügung. Diese reichen von ambulanten Therapien
 anstelle oder parallel zum Strafvollzug bis hin zu stationären
 Massnahmen in psychiatrischen Einrichtungen.
+
+## Bedingter Strafvollzug
+
+Der bedingte Strafvollzug ermöglicht es, eine Freiheitsstrafe unter bestimmten
+Voraussetzungen zur Bewährung auszusetzen
+<a
+href="https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de#book_1/part_1/tit_3/chap_1/sec_2/lvl_1"
+target="_blank"
+>
+(vgl. Art. 42 ff. StGB)</a>. Solange sich der Verurteilte während der
+Probezeit bewährt, das heisst nicht erneut straffällig wird, muss er die
+Strafe nicht antreten.
