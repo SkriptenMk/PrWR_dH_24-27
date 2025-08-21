@@ -1,5 +1,6 @@
 ---
 title: "Unterlagen zum Strafrecht"
+lang: de
 date-format: DD.MM.YYYY
 listing:
   contents: strafrecht/**
