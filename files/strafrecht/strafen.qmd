@@ -1,6 +1,5 @@
 ---
 title: "2 Strafen und Massnahmen"
-lang: de
 date: 2025-08-28
 date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"
