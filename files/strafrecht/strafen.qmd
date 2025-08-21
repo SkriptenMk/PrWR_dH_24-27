@@ -46,3 +46,10 @@ Es muss allerdings zwischen Strafurteil und Strafvollzug unterschieden
 werden. Im Strafurteil wird die Dauer der Freiheitsstrafe festgelegt. Im
 Strafvollzug ist es jedoch möglich, die Strafe unter bestimmten
 Voraussetzungen zu verkürzen.
+
+## Massnahmen
+
+Bei der Anordnung von Massnahmen stehen dem Gericht verschiedene
+Möglichkeiten zur Verfügung. Diese reichen von ambulanten Therapien
+anstelle oder parallel zum Strafvollzug bis hin zu stationären
+Massnahmen in psychiatrischen Einrichtungen.
