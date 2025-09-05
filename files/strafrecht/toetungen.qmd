@@ -1,0 +1,21 @@
+---
+title: "4 Delikte gegen Leib und Leben"
+date: 2025-09-04
+date-format: DD.MM.YYYY
+author: "Jacques Mock Schindler"
+---
+
+In diesem Abschnitt werden die wichtigsten Tötungsdelikte, vorsätzliche
+Tötung, Mord und Totschlag, besprochen.
+
+## Vorsätzliche Tötung (Art. 111 StGB)
+
+Die vorsätzliche Tötung ist die Grundnorm unter den Tötungsdelikten.
+Dieser Strafbestand ist erfüllt, wenn jemand einen anderen Menschen
+vorsätzlich tötet ohne, dass die Merkmale eines anderen Tötungsdelikts
+erfüllt sind.
+
+Bestraft wird die vorsätzliche Tötung mit Freiheitsstrafe nicht unter fünf
+Jahren.
+
+## Mord (Art. 112 StGB)
