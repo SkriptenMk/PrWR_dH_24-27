@@ -19,3 +19,12 @@ Bestraft wird die vorsätzliche Tötung mit Freiheitsstrafe nicht unter fünf
 Jahren.
 
 ## Mord (Art. 112 StGB)
+
+Mord ist ein qualifiziertes Tötungsdelikt. Dieser Strafbestand ist erfüllt, 
+wenn jemand einen anderen Menschen vorsätzlich tötet und dabei besonders 
+verwerflich handelt, namentlich aus Mordlust, zur Befriedigung seiner 
+Geschlechtslust, aus Habgier oder um eine andere Straftat zu verdecken oder 
+zu ermöglichen.
+
+Mord wird mit lebenslänglicher Freiheitsstrafe oder einer Freiheitsstrafe nicht
+unter zehn Jahren bestraft.
