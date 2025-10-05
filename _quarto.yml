@@ -15,6 +15,7 @@ book:
         - files/strafrecht/strafe.qmd
         - files/strafrecht/strafen.qmd
         - files/strafrecht/bge120iv265.qmd
+        - files/strafrecht/toetungen.qmd
 
   downloads: [pdf]
   navbar: 

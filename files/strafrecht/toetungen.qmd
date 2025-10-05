@@ -1,0 +1,82 @@
+---
+title: "Delikte gegen Leib und Leben"
+date: 2025-09-04
+date-format: DD.MM.YYYY
+author: "Jacques Mock Schindler"
+---
+
+In diesem Abschnitt werden die wichtigsten Tötungsdelikte, vorsätzliche
+Tötung, Mord und Totschlag, besprochen.
+
+## Vorsätzliche Tötung (Art. 111 StGB)
+
+::: {.callout-note}
+## Gesetzestext
+
+Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern
+Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit
+Freiheitsstrafe nicht unter fünf Jahren bestraft. 
+:::
+
+Die vorsätzliche Tötung ist die Grundnorm unter den Tötungsdelikten.
+Dieser Strafbestand ist erfüllt, wenn jemand einen anderen Menschen
+mit Absicht tötet ohne, dass die besonderen Merkmale eines anderen
+Tötungsdelikts wie Mord oder Totschlag erfüllt sind.
+
+Der Strafrahmen für eine vorsätzliche Tötung reicht von fünf bis zwanzig
+Jahren Freiheitsstrafe.
+
+## Mord (Art. 112 StGB)
+
+::: {.callout-note}
+## Gesetzestext
+
+Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund,
+der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so
+ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe
+nicht unter zehn Jahren.
+:::
+
+Mord ist das qualifizierte Tötungsdelikt. Das heisst, ein Mörder ist
+jemand der sich mehr Schuld auflädt, als dies mit einer Tötung
+notwendigerweise verbunden ist. Der Gesetzgeber spricht von einem
+besonders verwerflichen Zweck oder einer besonders verwerflichen
+Vorgehensweise. Das bedeutet, ein Mord liegt dann vor, wenn der
+Täter entweder aus niederen Beweggründen tötet oder besonders grausam
+vorgeht.
+
+Grundsätzlich wird Mord mit einer lebenslangen Freiheitsstrafe bestraft.
+Das Gericht kann aber auch eine Freiheitsstrafe von zwischen zehn und
+zwanzig Jahren verhängen.  
+Ursprünglich wurde Mord zwingend mit einer lebenslänglichen Strafe
+geahndet. Die Öffnung des Strafrahmens nach unten hat zu einer höheren
+Zahl an Verurteilungen wegen Mordes geführt. Dies hat aber nichts damit
+zu tun, dass die Öffnung des Strafrahmens weniger abschreckend wirken
+würde, als vielmehr damit, dass die Gerichte weniger Hemmungen haben,
+Täter in Tötungsdelikten wegen Mordes zu verurteilen, weil sie mit dem
+Strafmass spezifischer auf das konkrete Verschulden des Täters eingehen
+können. 
+
+## Totschlag (Art. 113 StGB)
+
+::: {.callout-note}
+## Gesetztestext
+
+Handelt der Täter in einer nach den Umständen entschuldbaren heftigen
+Gemütsbewegung oder unter grosser seelischer Belastung, so ist die
+Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren. 
+:::
+
+So wie Mord das qualifizierte Tötungsdelikt ist, ist Totschlag das
+privilegierte Tötungsdelikt. Der Gesetzgeber berücksichtigt damit, dass
+es Situationen gibt, in denen es irgendwie nachvollziehbar ist, dass der
+Täter das Opfer getötet hat. Nachvollziehbar bedeutet aber nicht, dass
+der Gesetzgeber die Tötung gutheisst. Nachvollziehbar ist ein
+Tötungsdelikt dann, wenn der Täter aufgrund sehr starker Emotionen
+tötet. Es spielt dabei keine Rolle, ob die Emotionen plötzlich Auftreten
+oder sich langsam aufbauen.
+
+Wie stark der Gesetzgeber diese Emotionen gewichtet wissen wollte, zeigt
+sich am unteren Ende des Strafrahmens von einem Jahr. Die Höchststrafe
+für Totschlag liegt bei zehn Jahren, also da, wo der Strafrahmen für
+Mord beginnt.
