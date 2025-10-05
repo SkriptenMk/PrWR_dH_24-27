@@ -1,5 +1,5 @@
 ---
-title: "2 Strafen und Massnahmen"
+title: "Strafen und Massnahmen"
 date: 2025-08-28
 date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"

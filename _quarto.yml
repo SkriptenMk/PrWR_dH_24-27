@@ -1,18 +1,34 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
+book:
   title: "PrWR 2dH (Schuljahr 25/26)"
+  author: "Jacques Mock Schindler"
   repo-url: https://github.com/SkriptenMk/I_eW_24-28
   repo-actions: [issue]
   repo-link-target: _blank
-  navbar:
-    right:
-      - text: Home
-        href: index.qmd
-      - text: Strafrecht
-        href: files/Strafrecht.qmd
+
+  chapters:
+    - index.qmd
+    - part: "Strafrecht"
+      chapters:
+        - files/strafrecht/strafe.qmd
+        - files/strafrecht/strafen.qmd
+        - files/strafrecht/bge120iv265.qmd
+
+  downloads: [pdf]
+  navbar: 
+    right: 
+      - icon: github
+        href: "https://github.com/SkriptenMk/PrWR_dH_24-27"
+        aria-label: GitHub
+        target: "_blank"
+      - icon: bug
+        href: "https://github.com/SkriptenMk/PrWR_dH_24-27/issues"
+        aria-label: "Fehler melden"
+        target: "_blank"
+    search: true
 
 lang: de
 
@@ -20,15 +36,25 @@ format:
   html:
     theme:
       - cosmo
-    css: styles.css
+      - brand
+    code-download: true
     toc: true
+    css: style.css
+    code-line-numbers: true
   pdf:
+    # Alle PDF-Einstellungen sind jetzt hier zentralisiert
+    documentclass: scrreprt
+    papersize: a4
+    classoption: 
+      - "DIV=11"
+    number-sections: true
+    toc: true
+    top-level-division: chapter
     pdf-engine: xelatex
-    mainfont: Arial
-    fontsize: 11pt
-    documentclass: article
-    classoption: a4paper
-    toc: false    
-
-
-
+    crossref:
+      chapters: true
+    header-includes:
+      - "\\KOMAoption{captions}{tableheading}"
+    block-headings: true
+    code-line-numbers: true
+    break-at-whitespace: true
