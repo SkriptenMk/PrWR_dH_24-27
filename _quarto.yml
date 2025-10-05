@@ -42,19 +42,20 @@ format:
     css: style.css
     code-line-numbers: true
   pdf:
-    # Alle PDF-Einstellungen sind jetzt hier zentralisiert
     documentclass: scrreprt
     papersize: a4
-    classoption: 
-      - "DIV=11"
     number-sections: true
     toc: true
     top-level-division: chapter
     pdf-engine: xelatex
     crossref:
       chapters: true
+    # NEU: Steuerung der Ränder direkt über den Quarto 'geometry'-Schlüssel als String.
+    # Dies ist der korrekte Weg, die Option clash zu vermeiden.
+    geometry: "tmargin=3cm, bmargin=3cm, lmargin=3cm, rmargin=6cm"
     header-includes:
       - "\\KOMAoption{captions}{tableheading}"
+    # ENTFERNT: Die manuelle \usepackage[...]{geometry} Anweisung, um den Konflikt zu vermeiden.
     block-headings: true
     code-line-numbers: true
     break-at-whitespace: true
