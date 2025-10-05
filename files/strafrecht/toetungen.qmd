@@ -1,5 +1,5 @@
 ---
-title: "4 Delikte gegen Leib und Leben"
+title: "Delikte gegen Leib und Leben"
 date: 2025-09-04
 date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"
@@ -10,21 +10,49 @@ Tötung, Mord und Totschlag, besprochen.
 
 ## Vorsätzliche Tötung (Art. 111 StGB)
 
+::: {.callout-note}
+## Gesetzestext
+
+Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern
+Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit
+Freiheitsstrafe nicht unter fünf Jahren bestraft. 
+:::
+
 Die vorsätzliche Tötung ist die Grundnorm unter den Tötungsdelikten.
 Dieser Strafbestand ist erfüllt, wenn jemand einen anderen Menschen
-vorsätzlich tötet ohne, dass die Merkmale eines anderen Tötungsdelikts
-erfüllt sind.
+mit Absicht tötet ohne, dass die besonderen Merkmale eines anderen
+Tötungsdelikts wie Mord oder Totschlag erfüllt sind.
 
-Bestraft wird die vorsätzliche Tötung mit Freiheitsstrafe nicht unter fünf
-Jahren.
+Der Strafrahmen für eine vorsätzliche Tötung reicht von fünf bis zwanzig
+Jahren Freiheitsstrafe.
 
 ## Mord (Art. 112 StGB)
 
-Mord ist ein qualifiziertes Tötungsdelikt. Dieser Strafbestand ist erfüllt, 
-wenn jemand einen anderen Menschen vorsätzlich tötet und dabei besonders 
-verwerflich handelt, namentlich aus Mordlust, zur Befriedigung seiner 
-Geschlechtslust, aus Habgier oder um eine andere Straftat zu verdecken oder 
-zu ermöglichen.
+::: {.callout-note}
+## Gesetzestext
 
-Mord wird mit lebenslänglicher Freiheitsstrafe oder einer Freiheitsstrafe nicht
-unter zehn Jahren bestraft.
+Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund,
+der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so
+ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe
+nicht unter zehn Jahren.
+:::
+
+Mord ist ein qualifiziertes Tötungsdelikt. Das heisst, ein Mörder ist
+jemand der sich mehr Schuld auflädt, als dies mit einer Tötung
+notwendigerweise verbunden ist. Der Gesetzgeber spricht von einem
+besonders verwerflichen Zweck oder einer besonders verwerflichen
+Vorgehensweise. Das bedeutet, ein Mord liegt dann vor, wenn der
+Täter entweder aus niederen Beweggründen tötet oder besonders grausam
+vorgeht.
+
+Grundsätzlich wird Mord mit einer lebenslangen Freiheitsstrafe bestraft.
+Das Gericht kann aber auch eine Freiheitsstrafe von zwischen zehn und
+zwanzig Jahren verhängen.  
+Ursprünglich wurde Mord zwingend mit einer lebenslänglichen Strafe
+geahndet. Die Öffnung des Strafrahmens nach unten hat zu einer höheren
+Zahl an Verurteilungen wegen Mordes geführt. Dies hat aber nichts damit
+zu tun, dass die Öffnung des Strafrahmens weniger abschreckend wirken
+würde, als vielmehr damit, dass die Gerichte weniger Hemmungen haben,
+Täter in Tötungsdelikten wegen Mordes zu verurteilen, weil sie mit dem
+Strafmass spezifischer auf das konkrete Verschulden des Täters eingehen
+können. 
