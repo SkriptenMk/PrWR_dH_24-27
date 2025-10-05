@@ -5,9 +5,8 @@ project:
 book:
   title: "PrWR 2dH (Schuljahr 25/26)"
   author: "Jacques Mock Schindler"
-  repo-url: https://github.com/SkriptenMk/I_eW_24-28
-  repo-actions: [issue]
-  repo-link-target: _blank
+  
+  
 
   chapters:
     - index.qmd
