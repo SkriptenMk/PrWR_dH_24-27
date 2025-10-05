@@ -1,13 +1,13 @@
 ---
-title: "1 Ziele des Strafrechts und der Strafe"
+title: "Ziele des Strafrechts und der Strafe"
 date: 2025-08-21
 date-format: DD.MM.YYYY
 author: "Jacques Mock Schindler"
 ---
 
-# Ziele des Strafrechts
+## Ziele des Strafrechts
 
-## Fokus des Strafrechts
+### Fokus des Strafrechts
 
 Das Schweizerische Strafrecht ist Täterorientiert. Es regelt, wie das
 Verhalten eines Täters sanktioniert wird. Dabei hält es nicht nur fest,
@@ -21,7 +21,7 @@ Einschränkungen der Staatsmacht in einem Rechtsstaat auferlegt werden.
 Franz von Liszt</a>, ein deutscher Jurist des 19. Jahrhunderts, spricht denn
 auch vom Strafrecht als der "magna charta des Verbrechers".
 
-## Das Opfer einer Straftat
+### Das Opfer einer Straftat
 
 Im Schweizerischen Strafrecht wird das Opfer einer Straftat lediglich
 als Voraussetzung für die Strafbarkeit des Täters betrachtet. Selbst im
@@ -40,11 +40,11 @@ href="https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_2"
 target="_blank">
 ausservertraglichen Haftpflichtrechts</a>.
 
-# Ziele der Strafe
+## Ziele der Strafe
 
 ::: {.callout-important appearance=simple}
 
-## Definition
+### Definition
 
 Strafe bedeutet, jemandem bewusst ein Übel zuzufügen.
 :::
@@ -54,7 +54,7 @@ grundlegende Definition von Strafe vergessen. Bei den folgenden
 Überlegungen muss diese Definition jedoch stets im Hinterkopf behalten
 werden.
 
-## Die Ziele der Strafe im Überblick
+### Die Ziele der Strafe im Überblick
 
 1. **Rache**: Die Strafe soll das begangene Unrecht durch das dem Täter
    zugefügte Übel ausgleichen.
@@ -69,9 +69,9 @@ werden.
    Missachtung der Rechtsordnung zu sanktionieren und ihr so Nachachtung
    zu verleihen.
 
-## Zu den Zielen der Strafe im Einzelnen
+### Zu den Zielen der Strafe im Einzelnen
 
-### Rache
+#### Rache
 
 Die Rache ist wohl das älteste Ziel der Strafe. So alt, wie dieses Ziel
 ist, so alt sind auch die Bemühungen, die Rache nicht ausufern zu
@@ -100,7 +100,7 @@ zu tun, dass das Gemeinwesen schwach war und sich mit den exemplarischen
 Strafen selber vergewissern musste.Erst in der frühen Neuzeit
 setzte wieder eine Mässigung der Strafen ein.
 
-### Prävention
+#### Prävention
 
 Prävention ist vor dem Hintergrund des Strafrechts ein anderes Wort für
 Abschreckung. Es geht darum, potenzielle Täter von der Begehung von
@@ -126,7 +126,7 @@ Irrationale Täter dürften sich hingegen weder
 von einer Strafe noch von der Wahrscheinlichkeit, erwischt zu werden,
 abschrecken lassen.
 
-### (Re)Sozialisierung
+#### (Re)Sozialisierung
 
 Die (Re)Sozialisierung ist ein weiteres wichtiges Ziel der Strafe. Sie
 geht davon aus, dass der Täter soziale Defizite aufweist, welche durch
@@ -144,7 +144,7 @@ Für die (Re)Sozialisierung werden verschiedene Massnahmen, wie zum
 Beispiel Therapieangebote, Bildungsmassnahmen oder soziale Trainings
 angeboten.
 
-### Sicherung der Rechtsordnung
+#### Sicherung der Rechtsordnung
 
 Die Sicherung der Rechtsordnung berührt ein zentrales Wesensmerkmal des
 Rechts. Recht ist nur, was durch gesellschaftliche Zwangsmassnahmen

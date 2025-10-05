@@ -6,6 +6,11 @@ date-format: DD.MM.YYYY
 toc-location: left
 ---
 
+## *Vorbemerkung* {.unnumbered}
+
+Der folgende Bundesgerichtsentscheid eignet sich sehr gut, um den Aufbau
+und die Argumentationsweise des Bundesgerichts zu veranschaulichen.
+
 44\. Auszug aus dem Urteil des Kassationshofes vom 21. September 1994
 i.S. B. gegen Staatsanwaltschaft des Kantons Zürich und Familie R.
 (Nichtigkeitsbeschwerde)  
@@ -14,7 +19,7 @@ i.S. B. gegen Staatsanwaltschaft des Kantons Zürich und Familie R.
 Spruchkammer, Parteien und Rechtsmittel
 :::
 
-## Regeste
+## Regeste {.unnumbered}
 
 :::{.column-margin}
 Heute wohl Management Summary
@@ -31,7 +36,7 @@ weiterfährt und dadurch das Gelingen der Tat fördert (E. 2).
 Von mehreren Beteiligten sind nur diejenigen wegen Mordes zu
 verurteilen, die selbst besonders skrupellos handelten (E. 3).
 
-## Sachverhalt (ab Seite 266)
+## Sachverhalt (ab Seite 266) {.unnumbered}
 
 :::{.column-margin}
 Der Sachverhalt ist die Geschichte, die sich zugetragen hat und vom
@@ -231,7 +236,7 @@ Anträge der Parteien
 Die Vorinstanz und die Staatsanwaltschaft des Kantons Zürich haben auf
 Gegenbemerkungen zur Beschwerde verzichtet.
 
-## Aus den Erwägungen:
+## Aus den Erwägungen: {.unnumbered}
 
 **2.** Obwohl der Beschwerdeführer
 an der Strangulation des Opfers selber nicht mitgewirkt hat, wirft ihm

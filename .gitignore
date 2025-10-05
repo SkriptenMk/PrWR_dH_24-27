@@ -1,7 +1,8 @@
-/.quarto/
-/.venv/
+/.quarto/*
+/.vscode/*
 *.swp
 *.aux
 *.log
 *.pdf
 
+!docs/PrWR-2dH--Schuljahr-25-26-.pdf
