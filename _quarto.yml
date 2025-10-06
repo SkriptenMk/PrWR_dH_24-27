@@ -18,6 +18,7 @@ book:
         - files/strafrecht/toetungen.qmd
         - files/strafrecht/sexualdelikte.md
         - files/strafrecht/vermoegen.md
+        - files/strafrecht/bge143iv302.md
 
   downloads: [pdf]
   navbar: 

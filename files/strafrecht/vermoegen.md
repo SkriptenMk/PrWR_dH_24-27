@@ -106,3 +106,16 @@ sechs Monaten bis zu zehn Jahren bestraft.
 $^3$Der Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird
 nur auf Antrag verfolgt. 
 :::
+
+Auch der Betrüger will sich oder einen anderen zu bereichern. Allerdings
+bringt der Betrüger den Geschädigten durch Täuschung dazu, selber tätig
+zu werden. Der Geschädigte muss sich selber oder einen Anderen am
+Vermögen schädigen.  
+Es reichen jedoch nicht alle täuschenden Handlungen, damit der
+Tatbestand des Betruges erfüllt ist. Der Betrüger muss arglistig
+vorgehen. Arglist bedeutet, dass der Betrüger ein ganzes Lügengebäude
+zu Täuschung aufbaut oder den Geschädigten davon abhält, das Vorliegen
+bestimmter Tatsachen zu prüfen.
+
+Die Strafdrohung für Betrug reicht von einer Geldstrafe bis zu zehn
+Jahren Freiheitsstrafe.
