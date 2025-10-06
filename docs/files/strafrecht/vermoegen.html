@@ -70,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -231,12 +260,73 @@ ul.task-list li input[type="checkbox"] {
 <p>In diesem Abschnitt werden die Delikte Diebstahl, Raub und Betrug besprochen.</p>
 <section id="diebstahl-art.-139-stgb" class="level2" data-number="6.1">
 <h2 data-number="6.1" class="anchored" data-anchor-id="diebstahl-art.-139-stgb"><span class="header-section-number">6.1</span> Diebstahl (Art. 139 StGB)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Gesetzestext
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>Wer jemandem eine fremde bewegliche Sache zur Aneignung wegnimmt, um sich oder einen andern damit unrechtmässig zu bereichern, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.</p></li>
+<li><p>…</p></li>
+<li><p>Der Dieb wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft, wenn er:</p>
+<ol type="a">
+<li>gewerbsmässig stiehlt;</li>
+<li>den Diebstahl als Mitglied einer Bande ausführt, die sich zur fortgesetzten Verübung von Raub oder Diebstahl zusammengefunden hat;<br>
+</li>
+<li>zum Zweck des Diebstahls eine Schusswaffe oder eine andere gefährliche Waffe mit sich führt oder eine Explosion verursacht; oder</li>
+<li>sonst wie durch die Art, wie er den Diebstahl begeht, seine besondere Gefährlichkeit offenbart.</li>
+</ol></li>
+<li><p>Der Diebstahl zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.</p></li>
+</ol>
+</div>
+</div>
 </section>
 <section id="raub-art.-140-stgb" class="level2" data-number="6.2">
 <h2 data-number="6.2" class="anchored" data-anchor-id="raub-art.-140-stgb"><span class="header-section-number">6.2</span> Raub (Art. 140 StGB)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Gesetzestext
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li><p>Wer mit Gewalt gegen eine Person oder unter Androhung gegenwärtiger Gefahr für Leib oder Leben oder nachdem er den Betroffenen zum Widerstand unfähig gemacht hat, einen Diebstahl begeht, wird mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.</p>
+<p>Wer, bei einem Diebstahl auf frischer Tat ertappt, Nötigungshandlungen nach Absatz 1 begeht, um die gestohlene Sache zu behalten, wird mit der gleichen Strafe belegt.</p></li>
+<li><p>Der Räuber wird mit Freiheitsstrafe nicht unter einem Jahr201 bestraft, wenn er zum Zweck des Raubes eine Schusswaffe oder eine andere gefährliche Waffe mit sich führt.</p></li>
+<li><p>Der Räuber wird mit Freiheitsstrafe nicht unter zwei Jahren bestraft,<br>
+wenn er den Raub als Mitglied einer Bande ausführt, die sich zur fortgesetzten Verübung von Raub oder Diebstahl zusammengefunden hat,<br>
+wenn er sonst wie durch die Art, wie er den Raub begeht, seine besondere Gefährlichkeit offenbart.</p></li>
+<li><p>Die Strafe ist Freiheitsstrafe nicht unter fünf Jahren, wenn der Täter das Opfer in Lebensgefahr bringt, ihm eine schwere Körperverletzung zufügt oder es grausam behandelt.</p></li>
+</ol>
+</div>
+</div>
 </section>
 <section id="betrug-art.-146-stgb" class="level2" data-number="6.3">
 <h2 data-number="6.3" class="anchored" data-anchor-id="betrug-art.-146-stgb"><span class="header-section-number">6.3</span> Betrug (Art. 146 StGB)</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Gesetzestext
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><span class="math inline">\(^1\)</span>Wer in der Absicht, sich oder einen andern unrechtmässig zu bereichern, jemanden durch Vorspiegelung oder Unterdrückung von Tatsachen arglistig irreführt oder ihn in einem Irrtum arglistig bestärkt und so den Irrenden zu einem Verhalten bestimmt, wodurch dieser sich selbst oder einen andern am Vermögen schädigt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.</p>
+<p><span class="math inline">\(^2\)</span>Handelt der Täter gewerbsmässig, so wird er mit Freiheitsstrafe von sechs Monaten bis zu zehn Jahren bestraft.</p>
+<p><span class="math inline">\(^3\)</span>Der Betrug zum Nachteil eines Angehörigen oder Familiengenossen wird nur auf Antrag verfolgt.</p>
+</div>
+</div>
 
 
 </section>
