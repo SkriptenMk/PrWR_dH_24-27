@@ -16,6 +16,7 @@ book:
         - files/strafrecht/strafen.qmd
         - files/strafrecht/bge120iv265.md
         - files/strafrecht/toetungen.qmd
+        - files/strafrecht/sexualdelikte.md
 
   downloads: [pdf]
   navbar: 
