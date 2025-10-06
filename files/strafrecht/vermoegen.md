@@ -62,7 +62,7 @@ Form nach Art. 139 Ziff. 3 StGB.
     Nötigungshandlungen nach Absatz 1 begeht, um die gestohlene Sache zu
     behalten, wird mit der gleichen Strafe belegt. 
 
-2.  Der Räuber wird mit Freiheitsstrafe nicht unter einem Jahr201
+2.  Der Räuber wird mit Freiheitsstrafe nicht unter einem Jahr
     bestraft, wenn er zum Zweck des Raubes eine Schusswaffe oder eine
     andere gefährliche Waffe mit sich führt. 
 
@@ -77,6 +77,16 @@ Form nach Art. 139 Ziff. 3 StGB.
     Täter das Opfer in Lebensgefahr bringt, ihm eine schwere
     Körperverletzung zufügt oder es grausam behandelt. 
 :::
+
+Während sich Diebstahl durch Heimlichkeit auszeichnet, kommt es beim
+Raub zu einer direkten Konfrontation mit dem Geschädigten.
+Ist es doch ein Wesensmerkmal des Raubes, dass der Geschädigte gezwungen
+wird, einen Vermögenswert dem Räuber zu überlassen.  
+Die anderen Tatbestandsmerkmale decken sich mit dem Diebstahl.
+
+Weil ein Räuber grundsätzlich gefährlicher ist als ein Dieb, beginnt der
+Strafrahmen für Raub im Grundtatbestand bei sechs Monaten
+Freiheitsstrafe und reicht bis zu zehn Jahren Freiheitsstrafe.
 
 ## Betrug (Art. 146 StGB)
 
