@@ -52,7 +52,7 @@ format:
       chapters: true
     # NEU: Steuerung der Ränder direkt über den Quarto 'geometry'-Schlüssel als String.
     # Dies ist der korrekte Weg, die Option clash zu vermeiden.
-    geometry: "tmargin=3cm, bmargin=3cm, lmargin=3cm, rmargin=6cm"
+    geometry: "tmargin=3cm, bmargin=3cm, lmargin=4cm, rmargin=5cm"
     column-margin-width: 5cm
     header-includes:
       - "\\KOMAoption{captions}{tableheading}"
