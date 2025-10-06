@@ -8,7 +8,7 @@
 
 <meta name="author" content="Jacques Mock Schindler">
 
-<title>4&nbsp; Delikte gegen Leib und Leben – PrWR 2dH (Schuljahr 25/26)</title>
+<title>5&nbsp; Delikte gegen die sexuelle Integrität – PrWR 2dH (Schuljahr 25/26)</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../files/strafrecht/sexualdelikte.html" rel="next">
-<link href="../../files/strafrecht/bge120iv265.html" rel="prev">
+<link href="../../files/strafrecht/toetungen.html" rel="prev">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -71,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -114,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../files/strafrecht/strafe.html">Strafrecht</a></li><li class="breadcrumb-item"><a href="../../files/strafrecht/toetungen.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Delikte gegen Leib und Leben</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../files/strafrecht/strafe.html">Strafrecht</a></li><li class="breadcrumb-item"><a href="../../files/strafrecht/sexualdelikte.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Delikte gegen die sexuelle Integrität</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Seitenleiste umschalten" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -161,13 +189,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../files/strafrecht/toetungen.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../files/strafrecht/toetungen.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Delikte gegen Leib und Leben</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../files/strafrecht/sexualdelikte.html" class="sidebar-item-text sidebar-link">
+  <a href="../../files/strafrecht/sexualdelikte.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Delikte gegen die sexuelle Integrität</span></span></a>
   </div>
 </li>
@@ -183,18 +211,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Inhaltsverzeichnis</h2>
    
   <ul>
-  <li><a href="#vorsätzliche-tötung-art.-111-stgb" id="toc-vorsätzliche-tötung-art.-111-stgb" class="nav-link active" data-scroll-target="#vorsätzliche-tötung-art.-111-stgb"><span class="header-section-number">4.1</span> Vorsätzliche Tötung (Art. 111 StGB)</a></li>
-  <li><a href="#mord-art.-112-stgb" id="toc-mord-art.-112-stgb" class="nav-link" data-scroll-target="#mord-art.-112-stgb"><span class="header-section-number">4.2</span> Mord (Art. 112 StGB)</a></li>
-  <li><a href="#totschlag-art.-113-stgb" id="toc-totschlag-art.-113-stgb" class="nav-link" data-scroll-target="#totschlag-art.-113-stgb"><span class="header-section-number">4.3</span> Totschlag (Art. 113 StGB)</a></li>
+  <li><a href="#vergewaltigung-art.-190-stgb" id="toc-vergewaltigung-art.-190-stgb" class="nav-link active" data-scroll-target="#vergewaltigung-art.-190-stgb"><span class="header-section-number">5.1</span> Vergewaltigung (Art. 190 StGB)</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../files/strafrecht/strafe.html">Strafrecht</a></li><li class="breadcrumb-item"><a href="../../files/strafrecht/toetungen.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Delikte gegen Leib und Leben</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../files/strafrecht/strafe.html">Strafrecht</a></li><li class="breadcrumb-item"><a href="../../files/strafrecht/sexualdelikte.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Delikte gegen die sexuelle Integrität</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Delikte gegen Leib und Leben</span></h1>
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Delikte gegen die sexuelle Integrität</span></h1>
 </div>
 
 
@@ -211,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Veröffentlichungsdatum</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">04.09.2025</p>
+      <p class="date">06.10.2025</p>
     </div>
   </div>
   
@@ -223,9 +249,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In diesem Abschnitt werden die wichtigsten Tötungsdelikte, vorsätzliche Tötung, Mord und Totschlag, besprochen.</p>
-<section id="vorsätzliche-tötung-art.-111-stgb" class="level2" data-number="4.1">
-<h2 data-number="4.1" class="anchored" data-anchor-id="vorsätzliche-tötung-art.-111-stgb"><span class="header-section-number">4.1</span> Vorsätzliche Tötung (Art. 111 StGB)</h2>
+<p>In diesem Abschnitt werden ausschliesslich Vergewaltigung und Pornographie besprochen.</p>
+<section id="vergewaltigung-art.-190-stgb" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="vergewaltigung-art.-190-stgb"><span class="header-section-number">5.1</span> Vergewaltigung (Art. 190 StGB)</h2>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -236,48 +262,11 @@ Gesetzestext
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Wer vorsätzlich einen Menschen tötet, ohne dass eine der besondern Voraussetzungen der nachfolgenden Artikel zutrifft, wird mit Freiheitsstrafe nicht unter fünf Jahren bestraft.</p>
+<p><span class="math inline">\(^1\)</span>Wer gegen den Willen einer Person den Beischlaf oder eine beischlafsähnliche Handlung, die mit einem Eindringen in den Körper verbunden ist, an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.</p>
+<p><span class="math inline">\(^2\)</span>Wer eine Person zur Vornahme oder Duldung des Beischlafs oder einer beischlafsähnlichen Handlung, die mit einem Eindringen in den Körper verbunden ist, nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.</p>
+<p><span class="math inline">\(^3\)</span>Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.</p>
 </div>
 </div>
-<p>Die vorsätzliche Tötung ist die Grundnorm unter den Tötungsdelikten. Dieser Strafbestand ist erfüllt, wenn jemand einen anderen Menschen mit Absicht tötet ohne, dass die besonderen Merkmale eines anderen Tötungsdelikts wie Mord oder Totschlag erfüllt sind.</p>
-<p>Der Strafrahmen für eine vorsätzliche Tötung reicht von fünf bis zwanzig Jahren Freiheitsstrafe.</p>
-</section>
-<section id="mord-art.-112-stgb" class="level2" data-number="4.2">
-<h2 data-number="4.2" class="anchored" data-anchor-id="mord-art.-112-stgb"><span class="header-section-number">4.2</span> Mord (Art. 112 StGB)</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Gesetzestext
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Handelt der Täter besonders skrupellos, sind namentlich sein Beweggrund, der Zweck der Tat oder die Art der Ausführung besonders verwerflich, so ist die Strafe lebenslängliche Freiheitsstrafe oder Freiheitsstrafe nicht unter zehn Jahren.</p>
-</div>
-</div>
-<p>Mord ist das qualifizierte Tötungsdelikt. Das heisst, ein Mörder ist jemand der sich mehr Schuld auflädt, als dies mit einer Tötung notwendigerweise verbunden ist. Der Gesetzgeber spricht von einem besonders verwerflichen Zweck oder einer besonders verwerflichen Vorgehensweise. Das bedeutet, ein Mord liegt dann vor, wenn der Täter entweder aus niederen Beweggründen tötet oder besonders grausam vorgeht.</p>
-<p>Grundsätzlich wird Mord mit einer lebenslangen Freiheitsstrafe bestraft. Das Gericht kann aber auch eine Freiheitsstrafe von zwischen zehn und zwanzig Jahren verhängen.<br>
-Ursprünglich wurde Mord zwingend mit einer lebenslänglichen Strafe geahndet. Die Öffnung des Strafrahmens nach unten hat zu einer höheren Zahl an Verurteilungen wegen Mordes geführt. Dies hat aber nichts damit zu tun, dass die Öffnung des Strafrahmens weniger abschreckend wirken würde, als vielmehr damit, dass die Gerichte weniger Hemmungen haben, Täter in Tötungsdelikten wegen Mordes zu verurteilen, weil sie mit dem Strafmass spezifischer auf das konkrete Verschulden des Täters eingehen können.</p>
-</section>
-<section id="totschlag-art.-113-stgb" class="level2" data-number="4.3">
-<h2 data-number="4.3" class="anchored" data-anchor-id="totschlag-art.-113-stgb"><span class="header-section-number">4.3</span> Totschlag (Art. 113 StGB)</h2>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Gesetztestext
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Handelt der Täter in einer nach den Umständen entschuldbaren heftigen Gemütsbewegung oder unter grosser seelischer Belastung, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu zehn Jahren.</p>
-</div>
-</div>
-<p>So wie Mord das qualifizierte Tötungsdelikt ist, ist Totschlag das privilegierte Tötungsdelikt. Der Gesetzgeber berücksichtigt damit, dass es Situationen gibt, in denen es irgendwie nachvollziehbar ist, dass der Täter das Opfer getötet hat. Nachvollziehbar bedeutet aber nicht, dass der Gesetzgeber die Tötung gutheisst. Nachvollziehbar ist ein Tötungsdelikt dann, wenn der Täter aufgrund sehr starker Emotionen tötet. Es spielt dabei keine Rolle, ob die Emotionen plötzlich Auftreten oder sich langsam aufbauen.</p>
-<p>Wie stark der Gesetzgeber diese Emotionen gewichtet wissen wollte, zeigt sich am unteren Ende des Strafrahmens von einem Jahr. Die Höchststrafe für Totschlag liegt bei zehn Jahren, also da, wo der Strafrahmen für Mord beginnt.</p>
 
 
 </section>
@@ -684,14 +673,11 @@ Gesetztestext
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../files/strafrecht/bge120iv265.html" class="pagination-link" aria-label="BGE 120 IV 265">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">BGE 120 IV 265</span></span>
+      <a href="../../files/strafrecht/toetungen.html" class="pagination-link" aria-label="Delikte gegen Leib und Leben">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Delikte gegen Leib und Leben</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../files/strafrecht/sexualdelikte.html" class="pagination-link" aria-label="Delikte gegen die sexuelle Integrität">
-        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Delikte gegen die sexuelle Integrität</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
