@@ -14,7 +14,7 @@ book:
       chapters:
         - files/strafrecht/strafe.qmd
         - files/strafrecht/strafen.qmd
-        - files/strafrecht/bge120iv265.qmd
+        - files/strafrecht/bge120iv265.md
         - files/strafrecht/toetungen.qmd
 
   downloads: [pdf]
@@ -53,8 +53,12 @@ format:
     # NEU: Steuerung der Ränder direkt über den Quarto 'geometry'-Schlüssel als String.
     # Dies ist der korrekte Weg, die Option clash zu vermeiden.
     geometry: "tmargin=3cm, bmargin=3cm, lmargin=3cm, rmargin=6cm"
+    column-margin-width: 5cm
     header-includes:
       - "\\KOMAoption{captions}{tableheading}"
+      - "\\KOMAoption{mpinclude}{true}"
+      - "\\setkomafont{disposition}{\\footnotesize\\linespread{0.8}\\selectfont}"
+      - "\\setlength{\\marginparpush}{2.5em}"
     # ENTFERNT: Die manuelle \usepackage[...]{geometry} Anweisung, um den Konflikt zu vermeiden.
     block-headings: true
     code-line-numbers: true
