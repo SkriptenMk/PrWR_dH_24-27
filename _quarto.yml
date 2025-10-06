@@ -17,6 +17,7 @@ book:
         - files/strafrecht/bge120iv265.md
         - files/strafrecht/toetungen.qmd
         - files/strafrecht/sexualdelikte.md
+        - files/strafrecht/vermoegen.md
 
   downloads: [pdf]
   navbar: 
