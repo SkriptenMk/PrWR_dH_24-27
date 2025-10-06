@@ -34,6 +34,20 @@ besprochen.
     wird nur auf Antrag verfolgt. 
 :::
 
+Diebstahl setzt verschiedene Tatbestandsmerkmale voraus:
+
+* Die Beute des Diebes muss eine *fremde* Sache sein. Fremd meint in
+  diesem Zusammenhang nicht unbekannt. Der Begriff bezieht sich hier
+  darauf, dass sich der Vermögenswert im Herrschaftsbereich des
+  Geschädigten befindet.
+* Der Dieb muss in der Absicht handeln, sich (oder jemand anderen) zu
+  *bereichern*. Bereichert ist jemand nur dann, wenn sich seine
+  Vermögenssituation durch die Tat grundsätzlich dauerhaft verbessert.
+
+Der Strafrahmen für Diebstahl reicht von einer Geldstrafe im
+Grundtatbestand bis zu zehn Jahren Freiheitsstrafe in der qualifizierten
+Form nach Art. 139 Ziff. 3 StGB.
+
 ## Raub (Art. 140 StGB)
 
 ::: {.callout-note}
