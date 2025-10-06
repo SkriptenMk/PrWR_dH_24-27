@@ -30,3 +30,20 @@ Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe
 Freiheitsstrafe nicht unter drei Jahren.
 :::
 
+Die Vergewaltigung ist durch zwei objektive Tatbestandsmerkmale
+gekennzeichnet:
+
+* Eindringen in den Körper (Penetration)
+* das fehlende Einverständnis des Opfers.
+
+Für die Penetration spielt es keine Rolle, um welche Körperöffnung es
+sich handelt. Zudem spielt es auch keine Rolle, womit in die
+entsprechende Körperöffnung eingedrungen wird.  
+Das fehlende Einverständnis des Opfers kann sich in beliebiger Form
+äussern. Nicht entscheidend ist, dass sich das Opfer physisch zur Wehr
+setzt. 
+
+Der Strafrahmen für eine Vergewaltigung liegt im Grundtatbestand
+zwischen drei Tagen und fünf Jahren. In den qualifizierten Tatbeständen
+im Sinne der Absätze 2 und 3 erhöht sich der Strafrahmen auf bis zu zehn
+Jahre Freiheitsstrafe.
